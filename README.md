@@ -1,4 +1,4 @@
-# Higher Order Fun
+# Higher Order Functions
 
 ## Goals
 
