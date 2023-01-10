@@ -8,9 +8,9 @@
 
 ## Tasks
 
-1. Write an _identity_ function that takes an argument and returns that same argument.
+1. Writte an _identity_ function that takes an argument and returns that same argument.
 
-2. Write a function `identityF` thats takes an argument and returns a function that returns that argument.
+2. Write a function `identityF` thatsgit takes an argument and returns a function that returns that argument.
 
 ```js
 const three = identityF(3);
